@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" modified="2021-09-16T18:30:08.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="QLHziu7TQws2Gb0i-TKN" version="15.1.4" type="github">
+  <diagram id="mKAB3gyMNsN7cmVvgj5p" name="Page-1">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-2" value="MUSICIAN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="136" y="120" width="140" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-3" value="# MusicianID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-2" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-4" value="* FirstName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-2" vertex="1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-5" value="* LastName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-2" vertex="1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-8" value="* PhoneNumber" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-2" vertex="1">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-7" value="* Address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-2" vertex="1">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-9" value="* HourlyRate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-2" vertex="1">
+          <mxGeometry y="156" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-26" value="° BandID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-2" vertex="1">
+          <mxGeometry y="182" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-20" value="BAND" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;verticalAlign=middle;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="180" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-21" value="# BandID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-20" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-22" value="* BandName" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XTGr-hU-IKEKfJxo0Xul-20" vertex="1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-37" value="have" style="html=1;verticalAlign=bottom;endArrow=none;fontSize=10;sourcePerimeterSpacing=1;targetPerimeterSpacing=3;strokeWidth=2;endFill=0;" parent="1" edge="1">
+          <mxGeometry x="0.25" y="-21" width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="218.5" as="sourcePoint" />
+            <mxPoint x="480" y="218.5" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTGr-hU-IKEKfJxo0Xul-38" value="Belongs" style="html=1;verticalAlign=bottom;endArrow=ERmany;dashed=1;endSize=8;fontSize=10;sourcePerimeterSpacing=1;targetPerimeterSpacing=3;strokeWidth=2;entryX=0.993;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" edge="1">
+          <mxGeometry x="0.592" y="-9" relative="1" as="geometry">
+            <mxPoint x="400" y="219" as="sourcePoint" />
+            <mxPoint x="276.02" y="218.99400000000003" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
