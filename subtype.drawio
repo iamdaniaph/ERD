@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T03:07:19.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.1.4" etag="473VO6TKBboEzSYzbhzl" type="github"><diagram id="sc74zVJsEnRtykgoPuwJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-17T03:12:25.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="oKEbiokpug0zb0j_cbzh" version="15.1.4" type="github">
+  <diagram id="sc74zVJsEnRtykgoPuwJ" name="Page-1">
+    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-1" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; AUTOMOBILE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-2" value="SEDAN" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="195" y="160" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-3" value="SPORTS UTILITY VEHICLE" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="195" y="210" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-4" value="OTHER" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="195" y="260" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-5" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; BUILDING&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="160" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-6" value="HOUSE" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="160" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-7" value="OFFICE" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="210" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-8" value="OTHER" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="360" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-9" value="SCHOOL" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="260" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVhcnjhzpTTgO55LjOYj-10" value="HOSPITAL" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="405" y="310" width="125" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
